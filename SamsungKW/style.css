@@ -1,0 +1,25 @@
+body {
+   padding-top: 70px;
+}
+
+footer {
+   padding: 20px;
+   text-align: center;
+   font-size: 14px;
+   color: #888;
+}
+
+sup {
+   font-size: 0.7em;
+   top: 0.8em;
+   position: relative;
+}
+
+.category-menu span {
+   cursor: pointer;
+   transition: font-weight 0.2s;
+}
+
+.category-menu span:hover {
+   font-weight: bold;
+}

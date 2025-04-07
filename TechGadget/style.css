@@ -1,0 +1,13 @@
+.hero {
+   background: linear-gradient(135deg, #6e8efb, #a777e3);
+   color: white;
+   padding: 80px 0;
+   text-align: center;
+}
+
+.notif-toast {
+   position: fixed;
+   bottom: 1rem;
+   right: 1rem;
+   z-index: 1055;
+}
